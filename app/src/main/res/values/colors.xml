@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A363B </color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#E84A5F </color>
+    <color name="colorFAB1">#FF847C</color>
+    <color name="colorFAB2">#FECEAB</color>
+    <color name="gradient1">#E2D1C3</color>
+    <color name="gradient2">#fdfcfb</color>
+
+    <color name="darkblue">#23283A</color>
+    <color name="lightgray">#CECEC3</color>
+
+    <color name="main1">#99B898</color>
+    <color name="main2">#FECEAB</color>
+    <color name="main3">#FF847C</color>
+    <color name="main4">#E84A5F</color>
+
+    <color name="db1">#8E236B</color>
+    <color name="shade1">#D146A4</color>
+    <color name="db2">#61B329</color>
+    <color name="shade2">#8ED95B</color>
+    <color name="db3">#FF6103</color>
+    <color name="shade3">#FF904F</color>
+    <color name="db4">#BC7642</color>
+    <color name="shade4">#D09F7A</color>
+
+    <color name="home1">#8E236B</color>
+    <color name="hshade1">#D146A4</color>
+    <color name="home2">#FF5721</color>
+    <color name="hshade2">#FF8962</color>
+    <color name="home3">#108070</color>
+    <color name="hshade3">#1FE3C7</color>
+    <color name="home4">#F7EA2B</color>
+    <color name="hshade4">#FBF489</color>
+
+
+
+
+
+</resources>
